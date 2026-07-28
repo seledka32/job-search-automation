@@ -122,6 +122,14 @@ The public workflow contains no real Telegram chat ID, bot token, credentials or
 - add follow-up reminders after 5–7 business days;
 - add error notifications and execution metrics.
 
+## Repository contents
+
+- [n8n workflow](workflows/devkg-job-assistant-v2.json)
+- [Architecture documentation](docs/architecture.md)
+- [Example webhook request](examples/webhook-input.json)
+- [Example scored vacancy](examples/scored-vacancy-output.json)
+- [Safe configuration template](.env.example)
+
 ## Author
 
 **Lee Daniel** — AI Automation / Full Stack Developer  
